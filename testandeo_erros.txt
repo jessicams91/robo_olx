@@ -1,0 +1,5 @@
+4 - Erro(s)
+Conta: conta1 Bugada
+Conta: conta3 Bugada
+Conta: conta2 Bugada
+Conta: conta4 Bugada
